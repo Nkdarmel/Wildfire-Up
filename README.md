@@ -2,6 +2,8 @@
 
 [![Open-Source](https://badges.green/open-source)](https://github.com/Nkdarmel/Wildfire-Up)
 
+[![IoT Achievement](https://example.com/iot-badge.png)](https://github.com/Nkdarmel/Wildfire-Up)
+
 # Tree Humidity Reflector
 
 A Open-source desktop app for turning tree humidity reflect images and videos into clean, analysis-ready datasets to tackling forest wildfire prevent and disaster using computer learning.
