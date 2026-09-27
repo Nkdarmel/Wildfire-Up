@@ -4,13 +4,12 @@
 
 [![IoT Achievement](https://example.com/iot-badge.png)](https://github.com/Nkdarmel/Wildfire-Up)
 
-# Tree Humidity Reflector
 
 A Open-source desktop app for turning tree humidity reflect images and videos into clean, analysis-ready datasets to tackling forest wildfire prevent and disaster using computer learning.
 
 **Overview**
 
-The Tree Humidity Reflector is a powerful tool designed to help engineers, and conservationists tackle the challenges of wildfires and natural disasters. Tree humidity levels analysis through image and video processing, this app provides valuable insights for predicting and preventing devastating events.
+The Wildfire-Up is a powerful tool designed to help engineers, and conservationists tackle the challenges of wildfires and natural disasters. Tree humidity levels analysis through image and video processing, this app provides valuable insights for predicting and preventing devastating events.
 
 **Features**
 
@@ -20,7 +19,7 @@ The Tree Humidity Reflector is a powerful tool designed to help engineers, and c
 
 **Getting Started**
 
-1. Clone this repository: `git clone https://github.com/your-github-handle/tree-humidity-reflector.git`
+1. Clone this repository: `git clone https://github.com/Nkdarmel/Wildfire-Up.git`
 2. Install dependencies using your preferred package manager (e.g., npm or pip).
 3. Run the app by executing the main script (e.g., `node index.js`).
 
@@ -28,10 +27,10 @@ The Tree Humidity Reflector is a powerful tool designed to help engineers, and c
 
 We welcome contributions from the open-source community! If you'd like to contribute, please:
 
-1. Fork this repository: `git fork https://github.com/your-github-handle/tree-humidity-reflector.git`
+1. Fork this repository: `git fork https://github.com/Nkdarmel/Wildfire-Up.git`
 2. Create a new branch for your feature or bug fix.
 3. Submit a pull request with clear documentation and tests.
 
 **License**
 
-The Tree Humidity Reflector is licensed under the [MIT License](https://opensource.org/licenses/MIT). See `LICENSE` file for details.
+The Wildfire-Up is licensed under the [MIT License](https://opensource.org/licenses/MIT). See `LICENSE` file for details.
