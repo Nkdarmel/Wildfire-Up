@@ -1,6 +1,6 @@
 # Wildfire-Up
 
-[![Open-Source](https://badges.green/open-source)](https://github.com/Nkdarmel/tree-humidity-reflector)
+[![Open-Source](https://badges.green/open-source)](https://github.com/Nkdarmel/Wildfire-Up)
 
 # Tree Humidity Reflector
 
